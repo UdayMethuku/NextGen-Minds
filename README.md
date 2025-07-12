@@ -1,5 +1,2 @@
 # NextGen-Minds
-streamlit
-opencv-python==4.9.0.80
-numpy<2.0
-openvino
+
